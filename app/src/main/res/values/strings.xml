@@ -24,6 +24,8 @@
     <string name="entrega_no_dia_seguinte">Entrega no dia seguinte</string>
     <string name="retirar_na_loja">Retirar na loja</string>
     <string name="fechar_conta">Fechar conta</string>
+    <string name="resultado">O valor do seu pedido é:</string>
+    <string name="resp3">30</string>
 
     <string-array name="labels_array">
         <item>Home</item>
