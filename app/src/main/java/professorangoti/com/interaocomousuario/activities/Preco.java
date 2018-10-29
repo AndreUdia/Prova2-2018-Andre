@@ -1,8 +1,12 @@
 package professorangoti.com.interaocomousuario.activities;
 
+import com.google.gson.annotations.Expose;
+import com.google.gson.annotations.SerializedName;
+
 public class Preco {
 
     private String produto;
+
     private String valor;
 
     public Preco(){
